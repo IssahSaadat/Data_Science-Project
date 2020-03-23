@@ -1,0 +1,2 @@
+Personal Goal: to be proficient with python and be a data scientist by the end 8weeks.
+Why i need to be a data scientist: the world now is all about data, data is needed to make critical decisions in business. Data scientists play an important role in any organization or business. Data science is interesting, required by many organizations and its in high demand (huge job opportunity), increases exposure.
